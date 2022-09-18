@@ -3,7 +3,7 @@ import "./App.css";
 import Blog from "./Blog";
 import Contact from "./Contact";
 import Footer from "./Footer";
-import Home from "./Home";
+import Home from "./Home.js";
 import Project from "./Project";
 import Service from "./Service";
 
@@ -11,12 +11,12 @@ function App() {
   return (
     <div className="App">
        <Home />
-       <About />
+       {/* <About />
        <Service />
        <Project />
        <Blog />
        <Contact />
-       <Footer />
+       <Footer /> */}
     </div>
   );
 }
