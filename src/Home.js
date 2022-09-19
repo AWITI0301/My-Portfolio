@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import "./Home.css";
-import logo from "./img/prof2.jpg";
+import logo from "./img/prof9.jpg";
 
 function Home() {
   // fixed Header
