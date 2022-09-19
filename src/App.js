@@ -15,7 +15,7 @@ function App() {
        <Service />
        <Project />
        <Blog />
-       {/* <Contact /> */}
+       <Contact />
        {/* <Footer />  */}
     </div>
   );
